@@ -8,6 +8,6 @@
     - [Cleaning US Census Data](https://github.com/frbenites/building-blocks/tree/master/Cleaning%20US%20Census%20data)
 2. **Machine Learning**
     - Multiple Linear Regression
-      - [Tenis: Modelo predictivo de la performance de los tenistas de la ATP](https://github.com/frbenites/building-blocks/tree/master/Cleaning%20US%20Census%20data)
+      - [Tenis: Modelo predictivo de la performance de los tenistas de la ATP](https://github.com/frbenites/building-blocks/tree/master/Tenis%20-%20Modelo%20predictivo%20de%20la%20performance%20de%20los%20tenistas%20de%20la%20ATP)
     
  Cada proyecto tiene sus respectivos scripts y alguna forma de documentación.
